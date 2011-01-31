@@ -1,9 +1,8 @@
-# Greycandy is a Silverstripe theme (www.silverstripe.com) written in HTML5 and CSS.
-# Author: Steffan Harries
-# Contact: contact@steffanharries.com
-# Git: https://github.com/Bendihossan/Greycandy
-# 
-# Evolved from the default 'Blackcandy' theme and evelolved into this minmal theme.
+** Introduction **
+ Greycandy is a Silverstripe theme (www.silverstripe.com) written in HTML5 and CSS.
+ Author: Steffan Harries
+ Contact: contact@steffanharries.com
+ Git: https://github.com/Bendihossan/Greycandy 
 
 ** Description **
 This theme is a simple and minimal theme designed for use with Silverstripe 2.4 and greater.  It's written in HTML5 and CSS3 (for browsers that support it, a fallback CSS exists for IE7). 
