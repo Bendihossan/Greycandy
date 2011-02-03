@@ -20,3 +20,6 @@
 	width: auto !important;
 	padding-left: 5%!important;
 }
+#calendar-main #Breadcrumbs {
+	display:none!important;
+}
