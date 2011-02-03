@@ -1,4 +1,5 @@
 <h2>Howdy</h2>
 <p>This is a small side bar that you can use to display some static content throughout your website.</p>
+<p>If you want to edit this text, simply navigate to the /Includes/ directory and edit the contents of the "RightHandColumn.ss" using your favourite text editor.</p>
 <h2>Got your attention?</h2>
-<p>Good, because hopefully we'll be making this dynamic in future versions of this theme.</p>
+<p>Good, because hopefully we'll be making this dynamic in future versions of this theme. That we won't be editing static content (afterall, that's why we have content management systems right?) and we can manipulate the sidebar much more easily.</p>
