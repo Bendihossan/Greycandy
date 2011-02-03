@@ -1,0 +1,21 @@
+/* Specific overrides for the Event Calendar module so it plays nice with the Greycandy theme.
+*  All rules must use !important; or the rules will not override the default behaviour. Nasty, but it works.
+*
+*/
+#topHeading{
+	padding:0 !important;
+}
+#topHeading h2{
+	clear: none !important;
+}
+#topHeading span.feed {
+	padding: 0 0 0 20px !important;
+	width: 25% !important;
+	text-align:center;
+}
+#calendar-sidebar {
+	display:none !important;
+}
+#calendar-main{
+	width: auto !important;
+}
