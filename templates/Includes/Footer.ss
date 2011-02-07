@@ -1,5 +1,5 @@
 <div class="block">
-	<h2>Links</h2>
+	<h2>Social Links</h2>
 	<ul>
 		<li><a href="/silverstripe/" title="Go to the Home page" class="link">Home</a></li>   
 		<li><a href="http://www.flickr.com/">Flickr</a></li>
@@ -8,8 +8,11 @@
 	 </ul>
 </div>
 <div class="block">
-	<h2>Lists</h2>
+	<h2>List Blocks</h2>
 	<ul>
+		<li><a href="#">Add as many list blocks as you like!</li>
+		<li><a href="#">Add as many list blocks as you like!</li>
+		<li><a href="#">Add as many list blocks as you like!</li>
 		<li><a href="#">Add as many list blocks as you like!</li>
 	</ul>
 </div>
