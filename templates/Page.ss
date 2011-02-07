@@ -46,9 +46,5 @@ $MetaTags(false)
 	</div>
 	<div id="Footer">
 		<% include Footer %>
-	<div id="copyright"><p>All content, photos and web design are &copy; Steffan Harries<br />
-        For usage, permissions or just about anything else please email <a href="mailto:contact@steffanharries.com">contact[at]steffanharries.com</a></p></div>
-	</div>
-
 	</body>
 </html>

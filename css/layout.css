@@ -605,7 +605,7 @@ p#Remember label {
 	font-size: 1.1em;
 	text-align: center;
 	margin:0;
-	padding:0;
+	padding:1em 0 0;
 	font-size:80%;
 }
 #Footer a { 
