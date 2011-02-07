@@ -141,6 +141,7 @@ caption, th, td {
 	font-size:220%;
 	padding-top:1em;
 }
+
 #Header p {
 	font-size: 14.5pt;
 	color: #fff;
@@ -170,6 +171,10 @@ caption, th, td {
 #Navigation ul li { 
 	line-height: 2.5em;
 	display: block;
+}
+#Navigation ul li a:active{
+	position: relative;
+	top: 0.5em;
 }
 #Navigation ul li a { 
 	text-decoration: none;
