@@ -75,8 +75,8 @@ caption, th, td {
 /*	border-right: 1px solid #6e7e99;
 	border-left: 1px solid #6e7e99;
 */
-	padding-right:4%;
-	padding-left:4%;
+	padding-right:8%;
+	padding-left:8%;
 }
 #rh-col {
 	color: #0F1727;
@@ -166,15 +166,15 @@ caption, th, td {
 	margin-left:-1em;
 }
 #Navigation ul {  
-	padding:0.2em 0 0 1em;
+	padding:0.3em 0 0 1em;
 }
 #Navigation ul li { 
-	line-height: 2.5em;
+	line-height: 2.2em;
 	display: block;
 }
 #Navigation ul li a:active{
 	position: relative;
-	top: 0.5em;
+	top: 0.2em;
 }
 #Navigation ul li a { 
 	text-decoration: none;
