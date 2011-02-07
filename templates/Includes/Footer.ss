@@ -1,7 +1,7 @@
 <div class="block">
 	<h2>Social Links</h2>
 	<ul>
-		<li><a href="/silverstripe/" title="Go to the Home page" class="link">Home</a></li>   
+		<li><a href="/" title="Go to the Home page" class="link">Home</a></li>   
 		<li><a href="http://www.flickr.com/">Flickr</a></li>
 		<li><a href="http://www.twitter.com/">Twitter</a></li>
 		<li><a href="http://uk.linkedin.com/">LinkedIn</a></li>		  
