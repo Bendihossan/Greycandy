@@ -15,7 +15,7 @@ $MetaTags(false)
 <link rel="stylesheet" type="text/css" href="themes/greycandy/css/event-calendar.css" />
 	
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://hafan.steffanharries.com/silverstripe/themes/greycandy/css/ie7-layout.css?m=1289948881" /> 
+<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie7-layout.css?m=1289948881" /> 
 <![endif]-->
 </head>
 	<body>
