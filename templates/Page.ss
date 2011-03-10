@@ -15,7 +15,11 @@ $MetaTags(false)
 <link rel="stylesheet" type="text/css" href="themes/greycandy/css/event-calendar.css" />
 	
 <!--[if IE 7]>
+<<<<<<< HEAD
 <link rel="stylesheet" type="text/css" href=themes/greycandy/css/ie7-layout.css" /> 
+=======
+<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie7-layout.css?m=1289948881" /> 
+>>>>>>> b11d30ace16cfdba73793e8b06c91960b339d82f
 <![endif]-->
 </head>
 	<body>
