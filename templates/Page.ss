@@ -15,12 +15,30 @@ $MetaTags(false)
 <link rel="stylesheet" type="text/css" href="themes/greycandy/css/event-calendar.css" />
 	
 <!--[if IE 7]>
-<<<<<<< HEAD
-<link rel="stylesheet" type="text/css" href=themes/greycandy/css/ie7-layout.css" /> 
-=======
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie7-layout.css?m=1289948881" /> 
->>>>>>> b11d30ace16cfdba73793e8b06c91960b339d82f
+	<link rel="stylesheet" type="text/css" href=themes/greycandy/css/ie7-layout.css" /> 
 <![endif]-->
+
+<!-- Hack for variations in the border-radius tag -->
+<style type="text/css">
+@-moz-document url-prefix() {
+	#Footer { /* For Firefox */
+		border-left: 1px solid #999;
+		border-right: 1px solid #999;
+		-moz-border-radius-topleft: 30px 30px;
+		-moz-border-radius-topright: 30px 30px;
+	}
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	#Footer { /* For Sarai & Chrome */
+		border-left: 3px solid #999;
+		border-right: 3px solid #999;
+		-webkit-border-radius-topleft: 30px 30px;
+		-webkit-border-radius-topright: 30px 30px;
+	}
+}
+
+</style>
+
 </head>
 	<body>
 	<div class="wrapper">
@@ -48,7 +66,7 @@ $MetaTags(false)
 		</div>
 		<div class="push"></div>
 	</div>
-	<div id="Footer">
+	<div id="Footer" class="">
 		<% include Footer %>
 	</body>
 </html>
