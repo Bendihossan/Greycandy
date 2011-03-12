@@ -527,7 +527,7 @@ span.middleColumn .message {
 	margin: 4px 0 0 3px;
 	padding: 5px;
 	width: 92%;
-	color: #DC1313;
+	color: black!important;
 	border: 4px solid #FF7373;
 	background: #FED0D0;
 }
@@ -587,7 +587,6 @@ p#Remember label {
 	color:#CFCFCF;
 	text-shadow: 0 1px 0 black;
 	font-weight:bold;
-	
 }
 .block ul {
 	font-size:70%;
