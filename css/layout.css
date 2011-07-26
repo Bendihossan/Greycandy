@@ -72,10 +72,10 @@ caption, th, td {
 .post {
 	float:left;
 	padding: 0% 2%;
-	/* Borders are for testing layout only */
+	/* Borders are for testing layout only 
 	border-right: 1px solid #6e7e99;
 	border-left: 1px solid #6e7e99;
-
+*/
 }
 #copyright {
 	text-align:center;
