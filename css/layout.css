@@ -49,13 +49,12 @@ caption, th, td {
 	min-width:600px;
 }
 #Container { 
-	width: 60%;
+	width: 80%;
 	padding-bottom: 0;
 	float:left;
 }
 #Layout {
 	clear: both;
-	margin-left:5%;
 }
 #Content {
 	width: 80%;
@@ -72,37 +71,11 @@ caption, th, td {
 }
 .post {
 	float:left;
-/*	border-right: 1px solid #6e7e99;
+	padding: 0% 2%;
+	/* Borders are for testing layout only */
+	border-right: 1px solid #6e7e99;
 	border-left: 1px solid #6e7e99;
-*/
-	padding-right:8%;
-	padding-left:8%;
-}
-#rh-col {
-	color: #0F1727;
-	float:left;
-	padding-right:00;
-	padding-left:0;
-	width:25%;
-	text-align: justify;
-}
-#rh-col a, #rh-col a:visited {
-	color:black;
-	text-decoration:none;
-	border-bottom:1px dashed black;
-}
-#rh-col h3 a, #rh-col h3 a:visited { 
-	border-bottom:none;
-}
-#rh-col a:hover, #rh-col h3 a:hover {
-	border-bottom: 1px solid black;
-}
-#rh-col h3 {
-	font-size:11pt;
-	margin-bottom:-0.8em;
-}
-#rh-col p {
-	font-size:9pt;
+
 }
 #copyright {
 	text-align:center;
@@ -157,7 +130,7 @@ caption, th, td {
 	padding:0 0 0 2%;
 	clear:both;
 	float:left;
-	width:11%;
+	width:15%;
 }
 #Navigation h2 {
 }

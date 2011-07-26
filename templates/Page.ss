@@ -60,9 +60,6 @@ $MetaTags(false)
 					<div id="Layout"> $Layout</div>
 				</div>
 			</div> 
-			<div id="rh-col">
-				<% include RightHandColumn %>
-			</div>
 		</div>
 		<div class="push"></div>
 	</div>
