@@ -66,7 +66,7 @@ caption, th, td {
 	min-width:650px;
 	height: auto !important;
 	height:100%;
-	margin: 0 auto -9em;	
+	margin: 0 auto -3em;	
 }
 .post {
 	float:left;
@@ -538,7 +538,7 @@ p#Remember label {
 /* FOOTER
 ----------------------------------------------- */
 #Footer, .push {
-	height: 9.4em;  /*.push must be the same height as .footer */
+	height: 3.4em;  /*.push must be the same height as .footer */
 	clear:both;
 }
 #Footer { 
