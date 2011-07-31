@@ -14,6 +14,9 @@ $MetaTags(false)
 <link rel="stylesheet" type="text/css" href="themes/greycandy/css/form.css" />
 <link rel="stylesheet" type="text/css" href="themes/greycandy/css/event-calendar.css" />
 	
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href=themes/greycandy/css/ie7-layout.css" /> 
+<![endif]-->	
 <!--[if lt IE 8]>
 	<link rel="stylesheet" type="text/css" href=themes/greycandy/css/ie7-layout.css" /> 
 <![endif]-->
