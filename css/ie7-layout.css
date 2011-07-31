@@ -18,16 +18,7 @@
 	padding:0.2em 0 0 1em;
 	list-style-type:none;
 }
-/* Container
------------------------------------------------ */
-#Container {
-	margin-top: 2em;
-}
-/* Sidebar
------------------------------------------------ */
-.sidebar {
-	margin-top: 2em;
-}
+
 /* FOOTER
 ----------------------------------------------- */
 .block ul {
