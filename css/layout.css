@@ -70,7 +70,7 @@ caption, th, td {
 }
 .post {
 	float:left;
-	padding: 0% 2%;
+	padding: 0 0 0 4%;
 	/* Borders are for testing layout only 
 	border-right: 1px solid #6e7e99;
 	border-left: 1px solid #6e7e99;
@@ -129,7 +129,7 @@ caption, th, td {
 	padding:0 0 0 2%;
 	clear:both;
 	float:left;
-	width:15%;
+	width:7em;
 }
 #Navigation h2 {
 }
