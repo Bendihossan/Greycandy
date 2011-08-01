@@ -48,7 +48,7 @@ caption, th, td {
 	max-width:2000px;
 }
 #Container { 
-	width: 80%;
+	width: 77%;
 	padding-bottom: 0;
 	float:left;
 }
@@ -126,7 +126,7 @@ caption, th, td {
 /* MAIN NAVIGATION - TABS
 ----------------------------------------- */
 #Navigation {
-	padding:0 0 0 2%;
+	padding:0 3% 0 2%;
 	clear:both;
 	float:left;
 	width:7em;
