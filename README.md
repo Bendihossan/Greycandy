@@ -24,7 +24,7 @@ Problems?
 -------------
 Sent me an email! I welcome anyone who has pull requests that will improve the overall theme. You can also email me at contact@steffanharries.me.uk. Please try to include as much information as you can about the problem as well as any suggested fixes you have.
 
-License
+The "New/Modified" BSD License
 -------------
 Copyright (c) 2012, Steffan Harries (www.steffanharries.me.uk)
 All rights reserved.
