@@ -10,7 +10,7 @@ Introduction
 
 Description
 -------------
-This theme is a simple and minimal theme designed for use with Silverstripe 2.4 and greater.  It's written in CSS3 and uses a media queries to scale. (for browsers that support it, a fallback stylesheet exists for IE7). 
+This theme is a simple and minimal theme designed for use with Silverstripe 2.4 and greater.  It's written in CSS3 and uses a media queries to scale (for browsers that support it, a fallback stylesheet exists for IE7 and JavaScript for Media Query support). 
 The theme is designed for small websites that need a basic theme from which to build upon and grow.
 It has a dynamic sidebar with nested elements that grows on demand.
 
