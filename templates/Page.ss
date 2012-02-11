@@ -9,9 +9,9 @@
 $MetaTags(false)
 <link rel="shortcut icon" href="/favicon.ico" />
 	
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/layout.css" />
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/typography.css" />
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/form.css" />
+<link rel="stylesheet" type="text/css" href="themes/greycandy/css/1140.css" />
+<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie.css" />
+<link rel="stylesheet" type="text/css" href="themes/greycandy/css/styles.css" />
 <link rel="stylesheet" type="text/css" href="themes/greycandy/css/event-calendar.css" />
 	
 <!--[if IE 7]>
@@ -41,32 +41,42 @@ $MetaTags(false)
 }
 
 </style>
-
 </head>
-	<body>
-	<div class="wrapper">
-		<div id="header-wrap">
-			<div id="Header">
-				$SearchForm
-				<h1>$SiteConfig.Title</h1>
+<body>
+<div id="wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="sixcol" id="Header">
+				<h1><a href="./">$SiteConfig.Title</a></h1>
 				<p>$SiteConfig.Tagline</p>
 			</div>
-		</div>
-		<div id="BgContainer">
-			<div id="Navigation" class="sidebar">
-				<h2>Site Map</h2>
-				<% include Navigation %>
-
+			<div class="sixcol last">
+			
 			</div>
-			<div id="Container">
-				<div class="post">		
-					<div id="Layout"> $Layout</div>
-				</div>
-			</div> 
 		</div>
-		<div class="push"></div>
 	</div>
-	<div id="Footer" class="">
-		<% include Footer %>
-	</body>
+	<div class="container">
+		<div class="row">
+			<div class="twocol">
+				<div id="Navigation" class="sidebar">
+					<% include Navigation %>
+				</div>
+			</div>
+			<div class="ninecol">
+				<div id="Layout">
+					<div class="typography">
+						$Content
+						$Form
+					</div>
+				</div>
+			</div>
+			<div class="onecol last">
+			</div>
+		</div>
+	</div>
+	<div id="push"></div>
+</div>
+<div id="Footer" class="">
+	<% include Footer %>
+</body>
 </html>
