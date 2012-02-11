@@ -9,16 +9,18 @@
 $MetaTags(false)
 <link rel="shortcut icon" href="/favicon.ico" />
 	
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/1140.css" />
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie.css" />
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/styles.css" />
-<link rel="stylesheet" type="text/css" href="themes/greycandy/css/event-calendar.css" />
+<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/1140.css" />
+<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/styles.css" />
+<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/event-calendar.css" />
 	
 <!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie7-layout.css" /> 
+	<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/ie7-layout.css" /> 
 <![endif]-->	
 <!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="themes/greycandy/css/ie7-layout.css" /> 
+	<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/ie7-layout.css" /> 
+<![endif]-->
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/ie.css" />
 <![endif]-->
 
 <!-- Hack for variations in the border-radius tag -->
