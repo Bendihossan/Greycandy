@@ -67,7 +67,7 @@ $MetaTags(false)
 			<div class="ninecol">
 				<div id="Layout">
 					<div class="typography">
-						$Content
+						$Layout
 						$Form
 					</div>
 				</div>
