@@ -16,11 +16,11 @@ Installation
 -------------
 Put the Greycandy folder in a the /themes directory of your Silverstripe installation. Then login to your Silverstripe admin page and choose the theme from the dropdown box. Once you've done that just flush Silverstripe's cache by adding "?flush=1" to the end of your URI. If the theme doesn't work after than you probably have a permissions issue and there's plenty of Google results on how to fix that.
 
-You may also need to edit the Includes/Footer.ss file using your favourite text editor for some customisation. You can use the CSS class "block" on an unordered list to create list blocks. See www.steffanharries.com for an example on how this works.
+You may also need to edit the Includes/Footer.ss file using your favourite text editor for some customisation.
 
 Problems?
 -------------
-Sent me an email! I welcome anyone who has pull requests that will improve the overall theme. You can also email me at contact@steffanharries.com Please try to include as much information as you can about the problem as well as any suggested fixes you have.
+Sent me an email! I welcome anyone who has pull requests that will improve the overall theme. You can also email me at contact@steffanharries.me.uk. Please try to include as much information as you can about the problem as well as any suggested fixes you have.
 
 
 Enjoy :)
