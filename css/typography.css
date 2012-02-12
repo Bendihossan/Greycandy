@@ -24,6 +24,7 @@
  	font-size: 10pt;
 	font-family:Verdana,Helvetica,Arial,sans-serif;
 	text-align:justify;
+	margin-bottom: 1em;
 /*	text-shadow:0 1px 0 #B0BFDB;*/
 }
 
@@ -156,7 +157,15 @@ h2 {
 /* IMAGES 
 -------------------------------------------- */
 .typography img {
+	float: left;
 	border: none;
+	margin: 0.5em;
+}
+.typography img.homepage{
+	float: left;
+	width: 47%;
+	max-width: 600px;
+	margin-bottom: 1em;
 }
 .typography img.right {
 	float: right;
@@ -164,6 +173,7 @@ h2 {
 }
 .typography img.left {
 	float: left;
+	margin-right: 20px;
 }
 .typography img.leftAlone {
 	float: left;
