@@ -16,6 +16,32 @@
 	body {
 		
 	}
+	
+	.typography img {
+		width: 80%!important;
+		float: none!important;
+		margin-left:10%!important;
+		margin-right: 10%!important;
+	}
+	.typography h2 {
+		margin-bottom: 0.5em;
+	}
+	#Navigation {
+		border-bottom: 1px dashed black!important;
+		margin-bottom: 1em;
+		text-align: center!important;
+		position: static!important;
+		float: none!important;
+	}
+	
+	#Navigation ul li a {
+		border-left: none!important;
+		padding: 0!important;
+	}
+	
+	#Footer {
+		width: 90%!important;
+	}
 
 }
 
