@@ -48,12 +48,9 @@ $MetaTags(false)
 <div id="wrapper">
 	<div class="container">
 		<div class="row">
-			<div class="sixcol" id="Header">
+			<div class="twelvecol last" id="Header">
 				<h1><a href="./">$SiteConfig.Title</a></h1>
 				<p>$SiteConfig.Tagline</p>
-			</div>
-			<div class="sixcol last">
-			
 			</div>
 		</div>
 	</div>
