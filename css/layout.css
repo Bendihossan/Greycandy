@@ -79,7 +79,7 @@ caption, th, td {
 #copyright {
 	text-align:center;
 	padding-top: 0em;
-	color: #A0A0A0;
+	color: #333;
 	margin: 0em;
 	clear:both;
 }
@@ -230,14 +230,9 @@ p#Remember label {
 #Footer { 
 	margin-left:auto;
 	margin-right:auto;
-	background-color: #383838;
-	border-top: 3px solid #999;
-	border-radius: 30px 30px 0 0;
-	width: 30em;
-}
-#Footer ul li a {
-	font-size:13px;
-	color:#A0A0A0;
+	border-top: 2px solid #999;
+	width: 100%;
+	max-width: 1140px;
 }
 #Footer #block h2 {
 	padding-top:0;
@@ -251,11 +246,11 @@ p#Remember label {
 	font-size:80%;
 }
 #Footer a { 
-	color: #A0A0A0; 
+	color: #333; 
 	text-decoration: none;
 	border-bottom: 1px dashed #999999;
 }
 #Footer a:hover {
-	color: #CFCFCF;
+	border-bottom: 1px solid #999999;
 }
 

@@ -22,27 +22,6 @@ $MetaTags(false)
 <!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="themes/Greycandy/css/ie.css" />
 <![endif]-->
-
-<!-- Hack for variations in the border-radius tag -->
-<style type="text/css">
-@-moz-document url-prefix() {
-	#Footer { /* For Firefox */
-		border-left: 1px solid #999;
-		border-right: 1px solid #999;
-		-moz-border-radius-topleft: 30px 30px;
-		-moz-border-radius-topright: 30px 30px;
-	}
-}
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-	#Footer { /* For Sarai & Chrome */
-		border-left: 3px solid #999;
-		border-right: 3px solid #999;
-		-webkit-border-radius-topleft: 30px 30px;
-		-webkit-border-radius-topright: 30px 30px;
-	}
-}
-
-</style>
 </head>
 <body>
 <div id="wrapper">
