@@ -115,6 +115,7 @@ caption, th, td {
 #Navigation {
 	clear:both;
 	float:left;
+	margin-top: 0.5em;
 }
 
 #topNav {
