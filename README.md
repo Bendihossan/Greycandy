@@ -1,3 +1,9 @@
+DEPRECATED
+=============
+This was a theme for Silverstripe 2.x, now v3 is available and I don't have the time or the itch to scratch to maintain this.
+
+If anyone wants to take over the project, let me know.
+
 Greycandy
 =============
 A simple, clean and hopefully useful theme for Silverstripe.
